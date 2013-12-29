@@ -6,7 +6,9 @@
 	<array>
 		<string>.git/config</string>
 		<string>.gitconfig</string>
+		<string>.gitconfig_extra</string>
 		<string>etc/gitconfig</string>
+		<string>gitconfig</string>
 	</array>
 	<key>name</key>
 	<string>Git Config</string>
